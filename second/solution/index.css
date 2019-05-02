@@ -3,7 +3,6 @@ body {
   padding: 25px;
 }
 
-
 .container-one {
   width: 100%;
   border: 5px solid black;
@@ -17,6 +16,7 @@ body {
   background-color: blueviolet;
   display: inline-block;
 }
+
 .square-two {
   height: 200px;
   width: 400px;
@@ -24,6 +24,7 @@ body {
   background-color: forestgreen;
   margin: 0 50px;
 }
+
 .circle-one {
   height: 200px;
   width: 200px;
@@ -37,7 +38,7 @@ body {
   border: 5px dotted black;
   padding: 50px;
   box-sizing: border-box ;
-  margin-top: 25px; 
+  margin-top: 25px;
 }
 
 .box-shadow {
@@ -55,7 +56,7 @@ body {
   background-color: white;
   padding: 100px;
   box-sizing: border-box ;
-  margin: 25px auto; 
+  margin: 25px auto;
   -webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
   -moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
   box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
