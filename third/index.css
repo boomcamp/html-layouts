@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+}
+
+.gray {
+    background-color: #d7d7d7;
+    height: auto;
+    padding: 25px;
+}
+
+.blue-box {
+    background-color: #6290df;
+    width: 50px;
+    height: 50px;
+}
+
+.white {
+    background-color: white;
+    padding: 32px 60px 100px 50px;
+}
+
+.blue {
+    height: 100px;
+    background-color: #6290df;
+}
+
+.teal {
+    height: 100px;
+    background-color: #89e1c1;
+}
+
+.green {
+    height: 100px;
+    background-color: #c4e789;
+}
+
+.yellow {
+    height: 100px;
+    background-color: #f3e539;
+}
