@@ -1,0 +1,48 @@
+
+body {
+    margin: 0;
+}
+
+.row {
+    height: 100px;
+    width: 100%;
+  }
+
+.row-content {
+    height: 200px;
+    width: 100%;
+}
+
+.row-1 {
+    background-color: #dddddd;
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+.row-box {
+    height: 50px;
+    width: 50px;
+    background-color: #4c82e7;  
+}
+
+.row-2 {
+    padding: 60px;
+    box-sizing: border-box;
+    background-color: #fff;
+}
+
+.row-3 {
+    background-color: #458ee0;
+  }
+  
+  .row-4 {
+    background-color: #46e2c0;
+  }
+  
+  .row-5 {
+    background-color: #b0e778;
+  }
+  
+  .row-6 {
+    background-color: #f3e011;
+  }
