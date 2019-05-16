@@ -1,0 +1,66 @@
+<!-- Put your HTML HERE, make sure to connect your index.css sheet -->
+body {
+   
+}
+.content {
+    margin-left: 18px;
+    margin-top: 25px;
+    margin-right: 18px;
+}
+.box-a {
+    border: 5px solid black;
+    padding: 10px 0 10px 10px;
+    margin-bottom: 25px;
+}
+
+.box-b {
+    border: 5px dotted black;
+    padding: 50px;
+    margin-bottom: 25px;
+}
+
+.box-c {
+    width: 700px;
+    height: auto;
+    border: 1px solid rgb(211, 211, 211);
+    padding: 100px;
+    align-content: center;
+    color: #07117d;
+    text-transform: uppercase;
+    letter-spacing: 10;
+    box-shadow: 5px 5px 5px rgb(209, 209, 209);
+
+}
+
+.purple {
+    background-color: #7a37de;
+    height: 150px;
+    width: 50px;
+    display: inline-block;
+    margin-right: 50px;
+}
+
+.green {
+    background-color: #4f892c;
+    height: 200px;
+    width: 400px;
+    display: inline-block;
+    margin-right: 50px;
+}
+
+.blue {
+    background-color: #9ccce9;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+
+.yellow {
+    background-color:#fef9cd;
+    height: 200px;
+    width: auto;
+    box-shadow: 10px 10px 5px rgb(58, 58, 58);
+}
+
