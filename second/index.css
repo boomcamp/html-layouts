@@ -1,0 +1,66 @@
+.solid-box{
+    height:250px;
+    border: 3px solid black;
+    margin: 20px;
+}
+
+.hrec{
+    float: left;
+    height: 200px;
+    width: 70px;
+    background: blue;   
+    margin:40px 10px;
+}
+
+.vrec{
+    float: left;
+    height: 230px;
+    width: 550px;
+    background: green;   
+    margin:10px 10px;
+}
+
+.circle{
+    float: left;
+    height: 230px;
+    width: 230px;
+    background: skyblue;
+    border-radius: 100%;
+    margin:10px 10px 
+
+}
+
+.dotted-box{
+    height:250px;
+    border: 3px dotted black;
+    margin: 20px;
+    
+}
+
+.shadow-rec{
+    float: left;
+    box-shadow: 5px 5px;
+    border: none;
+    height: 180px;
+    width: 1600px;
+    margin: auto;
+    margin: 30px;
+    background: cornsilk;
+}
+
+.shadow-box{
+    height: 250px;
+    width: 800px;
+    box-shadow: 5px 5px;
+    border: 1px solid gray;
+    margin: 0 auto;
+}
+
+.message{
+    color:blue;
+    text-align: center;
+    padding: 50px;
+    font-weight: bold;
+    font-size: 50px;
+    letter-spacing: 10px;
+}

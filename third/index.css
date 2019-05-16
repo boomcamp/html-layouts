@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    height:100px;
+    width: auto;
+    background: #d8d8d8;
+}
+
+.user-image{
+   float: left;
+   height: 50px; 
+   width: 50px;
+   background:#4C8DE7;
+   margin:25px 30px;
+}
+
+.banner{
+    background: white;
+    height:100px;
+    margin: 80px;
+}
+
+.blue{
+   background: #4990E2;
+   height:100px; 
+}
+
+.lgreen{
+    background: #52E3C5;
+    height:100px; 
+ }
+
+ .dgreen{
+    background: #B8E787;
+    height:100px; 
+ }
+
+ .yellow{
+    background: #F8E71E;
+    height:100px; 
+ }
+

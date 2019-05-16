@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.header{
+    height: 250px;
+    background: black;
+
+}
+.main{
+    height:1000px;
+    background: #EFEDEE;
+}
+.sidebar-left{
+    float: left;
+    height:1150px;
+    width:250px;
+    background: lightgray;
+}
+.sidebar-right{
+    float: right;
+    height:1150px;
+    width:250px;
+    background: lightgray;
+}
+.footer{
+    height:150px;
+    background: black;
+}
+
