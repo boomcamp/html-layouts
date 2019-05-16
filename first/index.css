@@ -1,0 +1,37 @@
+body{
+    margin: 0px 0px;
+}
+.header{
+       background-color: #444444;
+       width: 100%;
+       height: 200px;
+}
+.main{
+    display: inline-block;
+    width: 100%;
+    height: 800px;
+    background-color: white;
+}
+.leftnav{
+    background-color: #d8d8d8;
+    width: 10%;
+    height: 100%;
+    float: left;
+}
+.rightnav{
+    background-color: #d8d8d8;
+    width: 10%;
+    height: 100%;
+    float: right;
+}
+.content{
+    background-color: white;
+    width: 100%;
+    height: 650px;
+}
+
+.footer{
+    background-color: #444444;
+    height:150px;
+    width: 100%;
+}
