@@ -1,0 +1,59 @@
+* {
+  margin: 20px;
+  padding: 0;
+}
+
+.first-box {
+  border: 3px solid black;
+  height: 200px;
+  width: 1500px;
+  margin-left: 170px;
+}
+.second-box {
+  border: 3px dotted black;
+  height: 300px;
+  width: 1500px;
+  margin-left: 170px;
+}
+.third-box {
+  border: 1px solid lightgray;
+  height: 250px;
+  width: 450px;
+  margin-left: 670px;
+  box-shadow: 2px 2px 2px 2px lightgray;
+}
+.first-shape {
+  background-color: blueviolet;
+  height: 120px;
+  width: 40px;
+  margin-top: 65px;
+  float: left;
+}
+.second-shape {
+  background-color: green;
+  height: 183px;
+  width: 400px;
+  margin-top: 1.5px;
+  float: left;
+}
+.circle {
+  height: 183px;
+  width: 183px;
+  border-radius: 50%;
+  background-color: skyblue;
+  float: left;
+  margin-top: 8px;
+}
+.second-box-color {
+  background-color: cornsilk;
+  width: 1380px;
+  height: 200px;
+  margin: 55px;
+  box-shadow: 8px 8px 5px 5px black;
+}
+h1 {
+  color: blueviolet;
+  letter-spacing: 5px;
+  text-align: center;
+  margin-top: 95px;
+}

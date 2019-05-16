@@ -1,0 +1,41 @@
+* {
+  margin: 0 auto;
+  padding: 0;
+}
+.gray {
+  background-color: gainsboro;
+  width: max;
+  height: 120px;
+}
+.box {
+  width: 70px;
+  height: 70px;
+  background-color: blue;
+  float: left;
+  margin: 20px;
+}
+.text {
+  text-align: justify;
+  margin: 70px;
+  height: 155px;
+}
+.blue {
+  background-color: blue;
+  width: max;
+  height: 120px;
+}
+.aquamarine {
+  background-color: aquamarine;
+  width: max;
+  height: 120px;
+}
+.lightgreen {
+  background-color: lightgreen;
+  width: max;
+  height: 120px;
+}
+.yellow {
+  background-color: #f8e71c;
+  width: max;
+  height: 120px;
+}
