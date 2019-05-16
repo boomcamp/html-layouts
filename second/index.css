@@ -1,0 +1,62 @@
+/* First Container */
+.one{
+    border-width: 5px;
+    border-style: solid;
+    margin: 20px 20px;
+    padding: 10px;
+}
+
+.violet{
+    background-color: darkviolet;
+    display: inline-block;
+    height: 150px;
+    width: 50px;
+    margin-right: 50px;
+}
+
+.green{
+    background-color: green;
+    display: inline-block;
+    height: 200px;
+    width: 400px;
+    margin-right: 50px;
+}
+
+.cyan{
+    background-color: cyan;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+/* Second Container */
+.two{
+    border-width: 5px;
+    border-style: dotted;
+    margin: 20px 20px;
+    padding: 50px;
+}
+
+.shadow{
+    background-color: #fffacd;
+    height: 200px;
+    width: 100%;
+    display: inline-block;
+    box-shadow: 10px 10px 5px grey;
+}
+
+/* Third Container */
+.three{
+    border-color: #d9d9d9;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 1px 1px 5px grey;
+    margin: 20px 450px;
+    padding: 100px;
+    text-align: center;
+    color: blue;
+    font-size: 28px;
+    letter-spacing: .5em;
+    font-weight: bold;
+}
