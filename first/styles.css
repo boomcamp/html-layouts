@@ -1,0 +1,68 @@
+body
+{
+  margin:0;
+  padding:0;	
+  background: gray;
+}
+
+/*  CUSTOM CSS */
+
+.container
+{
+  
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+
+}
+
+.header
+{
+  width: 100vw;
+  height: 20vh;
+  background: #222;
+}
+
+.content
+{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 80vh;
+ 
+}
+
+
+.right
+{
+  display: flex;
+  flex-direction: column;
+  width: 80vw;
+  height: 80vh;
+  background: white;
+}
+
+.top-right
+
+{
+  
+ display: flex;
+ width: 80vw;
+ height: 70vh;
+ background: white;
+
+}
+
+.bottom-right
+
+{
+  display: flex;
+  height: 10vh;
+  background: #222;
+}
+
+
+

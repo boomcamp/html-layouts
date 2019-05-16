@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100vw;
+    height: 100vh;
+    padding: 10px;
+}
+
+.status-container {
+    width: inherit;
+    height: 10vh;
+    padding: inherit;
+    background: #555;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.status-actual {
+   width: 10vw;
+   height: 10vh;
+   background: dodgerblue;
+}
+
+
+.content {
+
+    width: inherit;
+    height: 90vh;
+
+}
+
+.colored-bars
+{
+    
+    width: inherit;
+    height: 15vh;
+}
+
+.blue {
+    background: dodgerblue;
+
+}
+
+.teal {
+    background: turquoise;
+}
+
+.green {
+    background: lightgreen;
+}
+
+.yellow {
+    background: yellow;
+}
+
+
+@media screen and (max-width: 800px) {
+    .status-container {
+        display: none;
+    }
+
+
+}

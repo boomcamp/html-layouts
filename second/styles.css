@@ -1,0 +1,99 @@
+body {
+    margin:0px;
+    padding: 0px;
+    
+}
+
+/* Custom css */
+
+/* top shapes */
+
+
+.container
+{
+    width: 100vw;
+    height: 100vh;
+    padding: 5px;
+    overflow-x: hidden;
+}
+
+.top-shapes {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    margin-left: 10px;
+    width: 100vw;
+    height: 200px;
+    justify-content: flex-start;
+    align-items: flex-end;
+    border: 5px solid #000000;
+}
+
+.thin-rect {
+    
+    margin: 0px 20px 0px 30px;
+    width: 60px;
+    height: 150px;
+    background: darkviolet;
+}
+
+.big-rect {
+    margin: 0px 20px 0px 20px;
+    width: 400px;
+    height: 200px;
+    background: green;
+}
+
+.circle {
+
+    margin: 0px 20px 0px 20px;
+    width: 200px;
+    height: 200px;
+    background: lightskyblue;
+    border-radius: 50%;
+}
+
+.note-shadow {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 200px;
+    padding: 20px;
+    border: 5px dotted black;
+}
+
+.note {
+  width: 100vw;
+  height: 180px;
+  background: beige;
+  box-shadow: 20px 20px 30px #000000;
+}
+
+.greet-container {
+
+    margin-top: 20px;
+    width: 100vw;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.greet-box {
+    width: 60vh;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid gray;
+
+}
+
+.greet-actual
+{
+    text-transform: uppercase;
+    font-size: 30px;
+    font-family: fantasy;
+}
