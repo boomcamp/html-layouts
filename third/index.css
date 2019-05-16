@@ -1,0 +1,45 @@
+body {
+    width: 100%;
+    margin: 0;
+}
+
+.cont {
+    height: 100px;
+    box-sizing: border-box;
+    padding: 25px;
+}
+
+.square {
+    height: 50px;
+    width: 50px;
+    background-color: #2e333b;
+}
+
+.paragraph{
+    background-color: white;
+    padding: 25px;
+    margin: 0;
+    height: 200px;;
+}
+
+.one{
+    background-color: #c6caca;
+    
+}
+
+.two{
+    background-color: #066cb1; 
+}
+
+.three{
+    background-color: #17b888;
+}
+
+.four{
+    background-color: #66d134; 
+}
+
+.five{
+    background-color: #c6d828;
+}
+
