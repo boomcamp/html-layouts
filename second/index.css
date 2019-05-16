@@ -1,0 +1,76 @@
+body{
+    margin: 40px 90px 40px 90px ;
+}
+
+.first{
+    height: 230px;
+    border: 4px black solid;
+}
+
+.first .box{
+    height: 160px;
+    background-color: blueviolet;
+    width: 60px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 55px;
+}
+
+.first .rectangle{
+    height: 200px;
+    background-color: forestgreen;
+    width: 420px;lemonchiffon;
+    margin: auto;
+    float: left;
+    margin-top: 15px;
+    margin-left: 70px;
+
+}
+
+.first .circle {
+    height: 200px;
+    width: 200px;
+    background-color: skyblue;
+    border-radius: 50%;
+    float: left;
+    margin-left: 65px;
+    margin-top: 15px;
+  }
+
+.second{
+    margin-top: 40px;
+    height: 230px;
+    border: 4px black dotted;
+}
+
+.second .rectangle2{
+    width: 95%;
+    height: 60%;
+    padding: 10px;
+    position: relative;
+    background-color: lemonchiffon;
+    margin: auto;
+    margin-top: 30px;
+    box-shadow: 5px 10px rgba(0,0,0,0.75);
+}
+
+.third{
+    height: 250px;
+    border: 1px solid;
+    border-top:none;
+    border-color: rgba(0,0,0,0.25);
+    width: 35%;
+    margin:auto;
+    margin-top: 40px;
+    text-align: center;
+    box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.25);
+}
+
+.third .text{
+    display: inline-block;
+    vertical-align: middle;
+    color: darkblue;
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 110px;
+}
