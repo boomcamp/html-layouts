@@ -1,0 +1,40 @@
+.row-1{
+    background-color: #d0d4db;
+    width: 100%;
+    height: 5vh;
+    padding: 30px;
+}
+.row-1-div{
+    width: 3%;
+    height: 5vh;
+    background-color: blue;
+}
+.row-big{
+    background-color: white;
+    padding: 90px;
+    font-size: 17px;
+}
+.row-3{
+    background-color: blue;
+    width: 100%;
+    height: 5vh;
+    padding: 30px;
+}
+.row-4{
+    background-color: #1dd1a4;
+    width: 100%;
+    height: 5vh;
+    padding: 30px;
+}
+.row-5{
+    background-color: #95d11c;
+    width: 100%;
+    height: 5vh;
+    padding: 30px;
+}
+.row-6{
+    background-color: #efef53;
+    width: 100%;
+    height: 5vh;
+    padding: 30px;
+}
