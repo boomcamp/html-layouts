@@ -1,0 +1,28 @@
+.grid-container{
+    display: grid;
+    grid-template-rows: 1fr 6fr 1fr;
+    grid-template-columns: 1fr 6fr 1fr;
+    background-color: blue;
+    min-height: 100vh;  
+}
+.top{
+    background-color:	#444444;
+    grid-column: 1 / 4 ;
+}
+.left{
+    background-color :#D8D8D8;
+    grid-column: 1 / 2 ;
+    grid-row: 2 / 4 ;
+}
+
+.mid{
+    background-color:#EFEDEE;
+}
+.right{
+    background-color:#D8D8D8;
+    grid-column: 3 / 4;
+    grid-row: 2 / 4 ;
+}
+.footer{
+    background-color: #232124;
+}
