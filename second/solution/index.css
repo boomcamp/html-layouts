@@ -62,7 +62,7 @@ body {
   box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
 }
 
-.container-three h1 {
+h1 {
   width: 100%;
   text-align: center;
   color: navy;
