@@ -3,6 +3,8 @@ body {
   padding: 25px;
 }
 
+
+
 .container-one {
   width: 100%;
   border: 5px solid black;
@@ -10,12 +12,16 @@ body {
   box-sizing: border-box ;
 }
 
+
+
 .square-one {
   height: 150px;
   width: 50px;
   background-color: blueviolet;
   display: inline-block;
 }
+
+
 
 .square-two {
   height: 200px;
@@ -25,6 +31,8 @@ body {
   margin: 0 50px;
 }
 
+
+
 .circle-one {
   height: 200px;
   width: 200px;
@@ -32,6 +40,8 @@ body {
   background-color: skyblue;
   display: inline-block;
 }
+
+
 
 .container-two {
   width: 100%;
@@ -41,6 +51,8 @@ body {
   margin-top: 25px;
 }
 
+
+
 .box-shadow {
   width: 100%;
   height: 200px;
@@ -49,6 +61,8 @@ body {
   -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
   box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 }
+
+
 
 .container-three {
   width: 50%;
@@ -62,9 +76,16 @@ body {
   box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
 }
 
+
+
 .container-three h1 {
-  width: 100%;
-  text-align: center;
-  color: navy;
-  letter-spacing: 10px;
+  
+	width: 100%;
+  
+	text-align: center;
+  
+	color: navy;
+  
+	letter-spacing: 10px;
+
 }
