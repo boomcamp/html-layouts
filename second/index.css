@@ -1,0 +1,71 @@
+*{
+    box-sizing: border-box;
+    //border: 1px solid red;
+}
+
+body{
+    margin: 0;
+    padding:20px;
+}
+
+.thick-border{
+    width: 100%;
+    border: 5px solid black;
+    padding: 10px 10px 15px 10px;
+}
+
+.thick-border div{
+    float: bottom;
+    display: inline-block;
+}
+
+.square1 {
+    height: 150px;
+    width: 50px;
+    background-color: purple;
+    margin-right: 50px;
+}
+
+.square2 {
+    width: 500px;
+    height: 200px;
+    background-color: darkseagreen;
+    margin-right: 50px;
+}
+
+.circle {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: skyblue;
+}
+
+.dotted-border{
+    margin-top: 20px;
+    width: 100%;
+    border: 5px dotted black;
+    padding: 50px;
+}
+
+.box-shadow{
+    width: 100%;
+    height: 200px;
+    background-color: beige;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.text-cont{
+  margin: 20px auto;
+  width: 50%;
+  background-color: white;
+  border: 1px solid #ccc;
+  padding: 100px;
+  box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+}
+
+h1 {
+  width: 100%;
+  text-align: center;
+  color: navy;
+  letter-spacing: 10px;
+}
