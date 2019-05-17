@@ -1,0 +1,58 @@
+.first-box{
+    border: 10px solid;
+    height: 300px;
+    min-width: 100%;
+    margin-bottom: 10px;
+    display: inline-flex;
+}
+
+.box-dotted{
+    border: 10px solid;
+    height: 300px;
+    border-style: dotted;  
+    margin-bottom: 10px;
+}
+
+.white-box{
+    border-style: outset;
+    height: 300px;
+    width: 800px;
+    margin: auto;
+}
+
+.white-box h1{
+    margin: 130px auto;
+    text-align: center;
+    font-weight: 700;
+}
+
+.blue-box{
+    background-color: blue;
+    width: 100px;
+    height: 180px;
+    margin-top: 100px;
+    margin-left: 20px;
+}
+
+.green-box{
+    background-color: green;
+    width: 500px;
+    height: 260px;
+    margin: 20px 100px;
+}
+
+.skyblue-circle{
+    background-color: lightblue;
+    width: 270px;
+    height: 260px;
+    margin: 20px 100px;
+    border-radius: 50%;
+}
+
+.yellow-box{
+    background-color: rgba(231, 231, 71, 0.295);
+    width: 90%;
+    height: 200px;
+    margin: 30px auto;
+    box-shadow:20px 20px 10px grey;
+}

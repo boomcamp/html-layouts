@@ -1,0 +1,30 @@
+body{
+    background-color: gainsboro;
+}
+.container{
+    margin:0; 
+    overflow: hidden;
+}
+.row-full{
+    height: 200px;
+    background-color: #000000;
+   }
+.sidebar{
+    background-color: #EFEFEF;
+    margin: 0 auto;
+  width: 75%;
+  height: 70vh;
+}
+.sidebarRight{
+    margin-left: 500px;
+    height: 180px;
+    max-width: 400px;
+    background-color: lightgray;
+}
+.footer{
+    height: 140px;
+    background-color: #000000;
+    margin: 0 auto;
+  width: 75%;
+  height: 10vh;
+}
