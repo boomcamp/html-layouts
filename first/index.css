@@ -1,0 +1,29 @@
+
+body{
+    background-color: #f1f1f1;
+}
+.header {
+    background-color: black;
+    height: 160px;
+}
+.leftSideBar{
+    background-color: #bfbfbf;
+    width: 250px;
+    height: 800px;
+    float:left;
+
+}
+
+.rightSideBar{
+    background-color: #bfbfbf;
+    width: 250px;
+    height: 800px;
+    float: right;
+  
+}
+
+.footer {
+    background-color: black;
+    height: 100px;
+    margin-top: 700px;
+}

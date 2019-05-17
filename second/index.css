@@ -1,0 +1,62 @@
+.firstBox{
+    border: solid black 5px;
+    margin: 30px;
+    padding: 20px; 
+}
+
+.violet_rectangle {
+    width: 50px;
+    height: 150px;
+    background: rgb(178, 31, 236);
+    display: inline-block;
+  }
+
+  .green_rectangle {
+    width: 400px;
+    height: 220px;
+    background: rgb(31, 160, 31);
+    display: inline-block;
+    margin-left: 50px;
+  }
+
+  .blue_circle{
+    background-color: skyblue;
+    height: 200px;
+    width: 200px; 
+    display: inline-block;
+    border-radius: 50%;
+    margin-left: 50px;
+  }
+
+  .secondBox{
+    border-style: dotted;
+    margin: 30px;
+    padding: 40px 40px; 
+}
+
+.yellow_rectangle {
+    width: 100%;
+    height: 200px;
+    background: #ffffcc;
+    box-shadow: 10px 10px 5px grey;
+  }
+
+  .thirdBox{
+    padding-top: 70px;
+    padding-bottom: 30px;
+    box-shadow: 7px 7px 2px gainsboro; 
+    width: 750px;
+    height: 200px;
+    border-left: solid gainsboro 1px;
+    border-top: solid gainsboro 1px;
+    margin: 0 auto;
+   
+  }
+
+  p{
+    width: 100%;
+    letter-spacing: 10px;
+    text-align: center;
+    font-size: 50px;
+    color: #000180;
+  }

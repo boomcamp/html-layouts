@@ -1,0 +1,36 @@
+.container1{
+    background-color: gainsboro;
+    padding: 25px;
+}
+
+.blue_box{
+    background-color: #4A90E2;
+    height: 50px;
+    width: 50px;  
+}
+
+.container2{
+    padding: 50px;
+    height: 100px;
+}
+
+.container3{
+    background-color: #4A90E2;
+    height: 100px;
+}
+
+.container4{
+    background-color: #50E3C2;
+    height: 100px;
+}
+
+.container5{
+    background-color: #B8E986;
+    height: 100px;
+}
+
+.container6{
+    background-color: #F8E71C;
+    height: 100px;
+}
+
