@@ -1,0 +1,25 @@
+.container{
+  background-color:#D3D3D3;
+  margin:0 auto;
+}
+
+.top{
+  background-color: #454241;
+  height: 190px;
+  margin:0;
+  width: 100%;
+}
+
+.content{
+  background-color: #E9E7E7;
+  margin:0 auto;
+  width: 75%;
+  height: 41em;
+}
+
+.footer{
+  background-color: #161616;
+  margin: 0 auto;
+  width: 75%;
+  height: 7.7em;
+}
