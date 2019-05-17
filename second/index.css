@@ -1,0 +1,66 @@
+body{
+    margin: 0 auto;
+    padding: 20px;
+}
+.box1{
+    border: 5px solid black;
+    width: 100%;
+    padding:10px;
+    box-sizing: border-box;
+}
+
+.smallrectagle{
+    background-color: blueviolet;
+    display: inline-block;
+    height: 150px;
+    width: 50px;
+    
+}
+
+.bigrectangel{
+    background-color: green;
+    display: inline-block;
+    height: 200px;
+    width: 400px;
+    margin-left: 60px;
+}
+
+.circle{
+    background-color: aqua;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    margin-left:70px;
+    border-radius: 566px;
+}
+
+.box2{
+    border: 5px dotted black;
+    width: 100%;
+    padding: 50px;
+    box-sizing: border-box;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.shadowbox{
+    background-color: palegoldenrod;
+    height: 200px;
+    width: 100%;
+    box-shadow: 4px 2px 6px 2px black;
+}
+
+.box3{
+    border:2px solid ghostwhite;
+    width: 50%;
+    margin:0 auto;
+    height: 300px;
+    box-shadow: 1px 1px 2px 0px black;
+}
+
+.box3 h1{
+    text-align: center;
+    color:blue;
+    margin-top: 100px;
+   
+}
