@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+.ash {
+    width: 100%;
+    background-color: rgb(223, 219, 219);
+    box-sizing: border-box ;
+}
+
+.box {
+    display: inline-block;
+    height: 65px;
+    width: 63px;
+    margin: 35px;
+    background-color: rgb(93, 175, 252);
+}
+
+.blank {
+    height: 25vh;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    box-sizing: border-box ;
+}
+
+p {
+    padding: 50px;
+    font-size: 22px;
+    text-align: center;
+    margin: 0;
+}
+
+.blue {
+    height: 13.5vh;
+    width: 100%;
+    background-color: cornflowerblue;
+    box-sizing: border-box ;
+}
+
+.green {
+    height: 13.5vh;
+    width: 100%;
+    background-color: rgb(99, 243, 183);
+    box-sizing: border-box ;
+}
+
+.lime {
+    height: 13.5vh;
+    width: 100%;
+    background-color: rgb(175, 250, 141);
+    box-sizing: border-box ;
+}
+
+.yellow {
+    height: 13.5vh;
+    width: 100%;
+    background-color: yellow;  
+    box-sizing: border-box ;
+}
