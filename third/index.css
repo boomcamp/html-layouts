@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+}
+
+.box1 {
+    padding: 20px;
+    background-color: lightgray;
+}
+.square {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(87, 148, 218);
+}
+.box2 {
+    padding: 50px;
+}
+
+.block {
+    height: 100px;
+    width: 100%;
+    background-color: #000;
+}
+
+.color1 {
+    background-color: rgb(62, 138, 226);
+}
+
+.color2 {
+    background-color: rgb(80, 228, 196);
+}
+
+.color3 {
+    background-color: rgb(185, 223, 126);
+}
+
+.color4 {
+    background-color: rgb(252, 224, 64);
+}

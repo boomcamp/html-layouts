@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    background-color: #cccccc;
+}
+body html {
+    height: 100%;
+}
+
+.header {
+    height: 20vh;
+    background-color: #333232;
+
+}
+.content {
+    margin: 0 auto;
+    width: 75%;
+    height: 70vh;
+    background-color: #ffffff;
+}
+.footer {
+    margin: 0 auto;
+    width: 75%;
+    height: 20vh;
+    background-color: #222121;
+}
+
+
