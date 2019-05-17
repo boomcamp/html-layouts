@@ -1,0 +1,42 @@
+.row-1 {
+    background-color: #ebced3;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.square {
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+    display: inline-block;
+}
+.row-2 {
+    background-color: white;
+    padding: 50px;
+    height: 200px;
+    box-sizing: border-box;
+}
+.row-3 {
+    background-color: blue;
+    padding: 50px;
+    box-sizing: border-box;
+}
+.row-4 {
+    background-color: #c9c0a9;
+    padding: 50px;
+    box-sizing: border-box;
+}
+.row-5 {
+    background-color: #cff582;
+    padding: 50px;
+    box-sizing: border-box;
+}
+.row-6 {
+    background-color: yellow;
+    padding: 50px;
+    box-sizing: border-box;
+}
+.row-7 {
+    background-color: white;
+    padding: 50px;
+    box-sizing: border-box;
+}

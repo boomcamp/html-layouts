@@ -1,0 +1,22 @@
+body {
+    background-color: #d7dae0;
+    width: 100%;
+    height: 100vh;
+}
+.con-1 {
+    background-color: black;
+    height: 20%;
+    width: 100%;
+}
+.con-2 {
+    background-color: white;
+    height: 70%;
+    width: 80%;
+    margin: 0 auto;
+}
+.con-3 {
+    background-color: black;
+    height: 10%;
+    width: 80%;
+    margin: 0 auto;
+}
