@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 20px
+}
+/* ** */
+.first{
+    border: 5px solid black;
+    padding: 10px;
+}
+.first > div{
+    display: inline-block;
+    margin-right: 50px
+}
+.shape-1{
+    width: 60px;
+    height: 140px;
+    background: #893fe2;
+}
+.shape-2{
+    width: 400px;
+    height: 200px;
+    background: #228b22
+}
+.shape-3{
+    width: 200px;
+    height: 200px;
+    background: #87ceeb;
+    border-radius: 50%
+}
+/* ** */
+.second{
+    border: 5px dotted black;
+    margin-top: 50px;
+    padding: 50px
+}
+.inside-box{
+    width: 100%;
+    height: 250px;
+    background: #fffacd;
+    box-shadow: 10px 10px 5px 2px rgba(84,84,84,1);
+}
+/* ** */
+.third{
+    width: 50%;
+    margin: 50px auto ;
+    border: 1px solid #d8d8d8;
+    box-shadow: 7px 5px 5px 3px rgba(216,216,216,1);
+    padding: 100px;
+    text-align: center;
+    color: #001d7f;
+    letter-spacing: 10px
+}
