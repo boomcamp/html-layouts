@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    background: #d8d8d8;
+    height: 100%;
+}
+html{
+    height: 100%;
+}
+header{
+    background: #444444 ;
+    height: 17%;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+.content{
+    background: #efeeee;
+    height: 71vh;
+}
+footer{
+    height: 12%;
+    background: #222222;
+    width: 80%;
+    margin: auto
+}
