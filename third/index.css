@@ -1,0 +1,80 @@
+/*top start*/
+
+.top {
+    width: 100%;
+    height: 15vh;
+    border: 5px solid grey;
+    background-color: grey;
+    padding: 0px;
+    margin: -8px 0px 0px -8px;
+}
+
+.blue{
+    width: 5%;
+    height: 8vh;
+    border: 5px solid #3378e8;
+    background-color: #3378e8;
+    margin-top: 3vh;
+    margin-bottom: 1vh;
+    margin-left: 25px;
+
+}
+
+/*top end*/
+
+/*mid start*/
+.mid {
+    width: 80%;
+    margin: 0 auto;
+}
+.mid p{
+    text-align: block;
+    padding-top: 3vh;
+    padding-bottom: 10vh;
+}
+/*mid end*/
+
+/*bot start*/
+.una {
+    width: 100%;
+    height: 15vh;
+    background-color: #3378e8;
+    border: 5px solid #3378e8;
+    margin: -8px 0px 0px -8px;
+}
+
+.dos {
+    width: 100%;
+    height: 15vh;
+    background-color: #71e384;
+    border: 5px solid #71e384;
+    margin: -8px 0px 0px -8px;
+}
+
+.tres {
+    width: 100%;
+    height: 15vh;
+    background-color: #369646;
+    border: 5px solid #369646;
+    margin: -8px 0px 0px -8px;
+}
+
+.quatro {
+    width: 100%;
+    height: 15vh;
+    background-color: #ebdc6e;
+    border: 5px solid #ebdc6e;
+    margin: -8px 0px 0px -8px;
+}
+
+.sinko {
+    width: 100%;
+    height: 15vh;
+    background-color: white;
+    border: 5px solid white;
+    margin: -8px 0px 0px -8px;
+}   
+
+
+
+/*bot end*/
