@@ -1,0 +1,56 @@
+body {
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+header{
+    border: 1px solid #d7d7d7;
+    background: #d7d7d7;
+    height: 13vh;
+}
+
+.logo{
+    background: #5e89e2;
+    height: 9vh;
+    width: 5vw;
+    margin: 2vh 2vw;
+}
+
+.paraText p{
+    margin-top: 5vh;
+    min-height: 20vh;
+}
+
+.blue{
+    border: 1px solid #4a90e2;
+    height: 12vh;
+    width: auto;
+    background: #4a90e2;
+}
+
+.blue-green{
+    border: 1px solid #51e3c2;
+    height: 12vh;
+    width: auto;
+    background: #51e3c2;
+}
+
+.lime{
+    border: 1px solid #b8e886;
+    height: 12vh;
+    width: auto;
+    background: #b8e886;
+}
+
+.yellow{
+    border: 1px solid #f8e71d;
+    height: 12vh;
+    width: auto;
+    background: #f8e71d;
+}
