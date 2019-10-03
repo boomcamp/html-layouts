@@ -1,0 +1,27 @@
+body{
+
+       margin:0;
+    background-color: #D8D8D8;  
+    width:100%;
+    height:100vh;
+ 
+}
+.top{
+    background-color: #444444;
+    height:20%;
+    width:100%; 
+
+}
+.side1{
+    background-color: white;
+    margin: 0 auto;
+    width: 75%;
+    height: 70vh;
+}
+.buttom{
+    background-color: #222222;
+    margin: 0 auto;
+    width: 75%;
+    height: 10vh;
+
+}
