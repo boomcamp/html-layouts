@@ -1,0 +1,50 @@
+*{
+    padding: 0%;
+    margin: 0%
+}
+.wrap{
+    background-color: rgb(196, 189, 189);
+    height: 15vh;
+    width: 100%;
+}
+.wrap1{
+    background-color: rgb(53, 162, 235);
+    height: 8vh;
+    width: 5%;
+    margin-left: 4%;
+    margin-top: 2.1%;
+    position: absolute;
+
+}
+.wrap2{
+    margin-top: 4%;
+    margin-left: 15%;  
+}
+.wrap3{
+    margin-left: -18%;
+    margin-top: 4%;  
+    background-color: rgb(79, 136, 223);
+    height: 15vh;
+    width: 118%;
+}
+.wrap4{
+    margin-left: -18%;
+    margin-top: 0%;  
+    background-color: rgb(79, 223, 204);
+    height: 15vh;
+    width: 118%;
+}
+.wrap5{
+    margin-left: -18%;
+    margin-top: 0%;  
+    background-color: rgb(224, 226, 111);
+    height: 15vh;
+    width: 118%;
+}
+.wrap6{
+    margin-left: -18%;
+    margin-top: 0%;  
+    background-color: rgb(228, 215, 35);
+    height: 15vh;
+    width: 118%;
+}
