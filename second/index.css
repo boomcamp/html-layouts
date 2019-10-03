@@ -1,0 +1,74 @@
+body {
+
+    padding: 50px;
+    margin: 0;
+    background-color: white;
+    width: 95%;
+    height: 100vh;
+    display: inline-block;
+  }
+
+    .container{
+      width: 100%;
+      padding: 10px;
+      border: 5px solid;
+      box-sizing: border-box; 
+    }
+    .rect {
+        width: 50px;
+        height: 150px;
+        background: purple;
+        display: inline-block;
+        margin-right: 40px;
+      }
+    
+    .circle {
+        width: 200px;
+        height: 200px;
+        background: lightblue;
+        border-radius: 50%;
+        display: inline-block;
+        margin-right: 40px;
+      }
+      .square {
+        width: 350px;
+        height: 200px;
+        background: green;
+        display: inline-block;
+        margin-right: 40px;
+      }
+      .container2{
+        width: 100%;
+        padding: 10px;
+        border: 5px dotted;
+        box-sizing: border-box; 
+        margin-top: 20px
+      }
+      .square2{
+        width: 95%;
+        height: 200px;
+        background: lemonchiffon;
+        display: inline-block;
+        margin: 40px;
+        -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+        -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+        box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+      }
+      
+      .container3{
+        width: 50%;
+        border: 1px solid #ccc;
+        background-color: white;
+        padding: 100px;
+        box-sizing: border-box ;
+        margin: 25px auto;
+        -webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+        -moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+        box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+      }
+      h1{
+        width: 100%;
+        text-align: center;
+        color: navy;
+        letter-spacing: 10px;
+      }
