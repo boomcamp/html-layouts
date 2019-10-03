@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Basic CSS</title>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="index.css" />
+  </head>
+  <body>
+	<div class="c1" />
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Basic CSS</title>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="styles/main.css" />
+  </head>
+  <body>
+   <h1 class="header">CSS Basics</h1>
+  </body>
+</html>
+  </body>
+</html>
