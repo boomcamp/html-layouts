@@ -1,0 +1,61 @@
+  body {
+    margin: 0;
+    padding: 25px;
+    
+  }
+  #box1 {
+    width: 96%;
+    border: 5px solid black;
+    padding: 10px;
+  }
+  
+  #shape1 {
+    height: 150px;
+    width: 50px;
+    background-color: blueviolet;
+    display: inline-block;
+  }
+  
+  #shape2 {
+    height: 200px;
+    width: 400px;
+    display: inline-block;
+    background-color: green;
+    margin: 0 50px;
+  }
+  
+  #shape3 {
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    background-color: skyblue;
+    display: inline-block;
+  }
+
+  #box2 {
+    width: 91.5%;
+    border: 5px dotted black;
+    padding: 50px;
+    margin-top: 30px;
+  }
+
+  #shape4{
+    width: 100%;
+    height: 200px;
+    background-color: lemonchiffon;
+    box-shadow: 15px 15px 10px 0px;
+  }
+  
+  #box3 {
+    margin-top: 30px;
+    margin-left: 30%;
+    width: 40%;
+    height: 300px;
+    border: 2px solid #ccc;
+    box-shadow: 5px 5px 10px 0px #aaa;
+  }
+  #box3 h1{
+      padding-top: 15%;
+      text-align: center;
+      color: darkblue;
+  }
