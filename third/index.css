@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+}
+.max{
+    height: 150px;
+    width: 100%;
+}
+.top{
+    background-color: #D8D8D8;
+    padding: 35px;
+    box-sizing: border-box;
+}
+.minibox{
+    width: 70px;
+    height: 70px;
+    background-color: #4A90E2;
+}
+.content{
+    padding: 50px;
+    height:150px;
+}
+.color1{
+    background-color: #4A90E2;
+}
+.color2{
+    background-color: #50E3C2;
+}
+
+.color3{
+    background-color: #B8E986;
+}
+
+.color4{
+    background-color: #F8E71C;
+}
