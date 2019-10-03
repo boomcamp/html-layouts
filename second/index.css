@@ -1,0 +1,87 @@
+
+body {
+    margin: 0;
+    padding: 25px;
+  }
+.container
+{
+    margin-top: 8.4px;
+    width: 100%;
+    border: 5px solid black;
+    padding: 13px;
+    box-sizing: border-box;
+}
+
+.rectangle1
+{
+    position: relative;
+    top: 5px;
+    margin-right: 60px;
+    width: 50px;
+    height:150px;
+    background-color: blueviolet;
+    display: inline-block;
+
+}
+.rectangle2
+{
+    position: relative;
+    top: 5px;
+    margin-right: 60px;
+    width: 390px;
+    height:190px;
+    background-color: green;
+    display: inline-block;
+
+}
+.circle
+{
+    position: relative;
+    top: 1px;
+    border-radius: 50%;
+    width: 190px;
+    height:190px;
+    background-color: skyblue;
+    display: inline-block;
+
+}
+.container2
+{
+    margin-top: 10px;
+    width: 100%;
+    border: 5px dotted black;
+    padding: 60px;
+    box-sizing: border-box;
+}
+.box-shadow
+{
+    position: relative;
+    top: 5px;
+    width: 1660px;
+    height:190px;
+    background-color: lemonchiffon;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.container3
+{
+
+    margin-top: 15px;
+    width: 50%;
+    border: 1px solid #ccc;
+    background-color: white;
+    padding: 100px;
+    box-sizing: border-box ;
+    margin: 25px auto;
+    -webkit-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+    -moz-box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+    box-shadow: 3px 3px 5px 0px rgba(0,0,0,0.25);
+}
+.container3 h1 {
+    width: 100%;
+    text-align: center;
+    color: navy;
+    letter-spacing: 10px;
+  }
