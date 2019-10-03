@@ -1,0 +1,46 @@
+* {
+padding: 0;
+margin: 0;
+}
+
+.nav {
+	background-color: #D0D0D0;
+	height: 100px;
+	padding: 20px;
+}
+
+.bluebox {
+	background-color: cornflowerblue;
+	height: 90px;
+	width: 90px;
+}
+
+.main{
+	background-color: #FFF;
+	height: 200px;
+	width: auto;
+}
+
+p {
+	padding: 50px;
+}
+
+.primary {
+	background-color: #0088DB;
+	height: 150px;
+}
+
+.green {
+	background-color: #00EAFF;
+	height: 150px;
+}
+
+.lightgreen {
+	background-color: #BFE269;
+	height: 150px;
+}
+
+.yellow {
+	background-color: #E9DE00;
+	height: 150px;
+}
