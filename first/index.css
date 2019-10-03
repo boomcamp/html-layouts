@@ -1,0 +1,22 @@
+body{
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+}
+header{
+    background-color: #444444;
+    width: 100%;
+    height: 20vh;
+}
+section{
+    margin: 0 auto;
+    width: 75%;
+    height: 70vh;
+    background-color: #efefef;
+}
+footer{
+    margin: 0 auto;
+    background-color: #444444;
+    width: 75%;
+    height: 10vh;
+}
