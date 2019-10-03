@@ -1,0 +1,58 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.header-nav{
+    height: 110px;
+    background: rgb(177, 177, 177);
+    display: flex;
+    align-items: center;
+}
+
+.logo-container{
+    /* display: inline-block; */
+    height: 60px;
+    width: 60px;
+    background: rgb(11, 137, 196);
+    margin-left: 20px;
+}
+
+.content{
+    height: 380px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.content > p{
+    margin: 50px; 
+}
+
+
+.bar{
+    height: 110px;
+}
+
+.blue{
+    background: rgb(11, 137, 196);
+}
+
+.seagreen{
+    background: rgb(10, 187, 148);
+}
+
+.lime{
+    background: rgb(197, 223, 103);
+}
+
+.yellow{
+    background: rgb(237, 240, 64);
+}
+
+.logo-container:active{
+
+}
+
+
