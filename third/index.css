@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    overflow: hidden;
+}
+.header{
+    width:100%;
+    height:7vh;
+    padding: 20px;
+    background:lightgray;
+}
+.small{
+    width:60px;
+    height:60px;
+    background:#50a2cc;
+}
+.one{
+    padding:50px;
+    height:10vh;
+    background:white;
+}
+.two{
+    padding:50px;
+    height:10%;
+    background:#50a2cc;
+}
+.three{
+    padding:50px;
+    height:10%;
+    background:#42d6a7;
+}
+.four{
+    padding:50px;
+    height:10%;
+    background:#adc76b;
+}
+.five{
+    padding:50px;
+    height:10%;
+    background:#e0e014;
+}
