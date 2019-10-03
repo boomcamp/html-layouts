@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+.top{
+    background: #4b5152;
+    width: auto;
+    height: 25vh;
+    padding: 0;
+}
+
+.left{
+    background: #b9bdb9;
+    float: left;
+    min-width: 15%;
+    height: 75vh;  
+}
+
+.right{
+    background: #b9bdb9;
+    float: right;
+    min-width: 15%;
+    height: 75vh;  
+}
+
+.center{
+    float: left;
+    background: #dbdbdb;
+    min-width: 70%;
+    height: 60vh;    
+}
+
+.bottom{
+    background: #3a3b3d;
+    min-width: 70%;
+    height: 75vh;
+}
