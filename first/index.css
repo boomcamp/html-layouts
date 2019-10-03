@@ -1,0 +1,29 @@
+body{
+  box-sizing: border-box;
+  margin: 0px;
+}
+
+.wrapper{
+  background-color: gainsboro;
+  width: auto;
+  height: auto;
+}
+.top{
+  background-color: #3F3B3B;
+  width: auto;
+  height: 200px;
+}
+.middle{
+  background-color: rgb(245, 240, 240);
+  width: 1500px;
+  height: 680px;
+  position: relative;
+  left: 200px;
+}
+.footer{
+  background-color: #3F3B3B;
+  width: 1500px;
+  height: 100px;
+  position: relative;
+  left: 200px;
+}
